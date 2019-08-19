@@ -1,4 +1,4 @@
-# IDEA安装
+# IDEA安装使用教程
 
 ## 使用FTP中的IDEA安装包
 
