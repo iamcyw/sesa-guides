@@ -29,3 +29,10 @@
  **如图选择按Gradle项目导入**
  ![选择gradle](assert/2019-08-19-20-30-37.png)
  **等待项目导入成功**
+
+### 6. 运行项目
+
+ ![运行项目](assert/2019-08-19-21-31-23.png)
+ > 1： 选择右侧面板的Gradle  
+ > 2： 运行Server模块的Gradle Task：bootRun  
+ > 3： 运行Webapp模块的Gradle Task: bootRun
