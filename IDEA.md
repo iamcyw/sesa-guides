@@ -1,2 +1,7 @@
 # IDEA安装
-1. 从ftp下载zip
+
+## 使用FTP中的IDEA安装包
+
+1.1 从FTP地址下载zip()
+
+1.2 
