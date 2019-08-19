@@ -2,9 +2,11 @@
 
 ## 使用FTP中的IDEA安装包
 
-### 1. 从FTP地址下载zip()
+### 1. 下载地址
+ > FTP地址：
 
-### 2. 运行ideaIU-2019.2.win\bin\idea64.exe
+### 2. 运行程序
+ > 运行ideaIU-2019.2.win\bin\idea64.exe
 
    ![文件目录](assert/exeMain.jpg)
 
