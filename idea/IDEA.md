@@ -10,6 +10,10 @@
 
    ![文件目录](assert/exeMain.jpg)
 
+## 3. 导入设置
+
+ > **参考其他文章[IDEA设置项导入](idea/importSetting 'IDEA设置项导入')**
+
 ## 3. 设置新项目JDK
 
  ![菜单选择设置JDK](assert/2019-08-19-16-32-42.png)
