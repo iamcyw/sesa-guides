@@ -12,7 +12,7 @@
 
 ## 3. 导入设置
 
- > **参考其他文章[IDEA设置项导入](idea/importSetting 'IDEA设置项导入')**
+ > **参考其他文章[IDEA设置项导入](importSetting 'IDEA设置项导入')**
 
 ## 3. 设置新项目JDK
 
