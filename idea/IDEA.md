@@ -2,7 +2,7 @@
 
 ## 1. 下载地址
 
- > FTP地址：
+ > FTP地址：ftp://www.fa-software.com/upload/IDEA/
 
 ## 2. 运行程序
 
